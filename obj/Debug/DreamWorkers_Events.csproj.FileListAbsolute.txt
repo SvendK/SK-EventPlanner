@@ -1,0 +1,6 @@
+C:\Projects\GIT\DreamWorkers_Events\DreamWorkers_Events\bin\Debug\DreamWorkers_Events.dll.config
+C:\Projects\GIT\DreamWorkers_Events\DreamWorkers_Events\bin\Debug\DreamWorkers_Events.dll
+C:\Projects\GIT\DreamWorkers_Events\DreamWorkers_Events\bin\Debug\DreamWorkers_Events.pdb
+C:\Projects\GIT\DreamWorkers_Events\DreamWorkers_Events\obj\Debug\DreamWorkers_Events.csprojResolveAssemblyReference.cache
+C:\Projects\GIT\DreamWorkers_Events\DreamWorkers_Events\obj\Debug\DreamWorkers_Events.dll
+C:\Projects\GIT\DreamWorkers_Events\DreamWorkers_Events\obj\Debug\DreamWorkers_Events.pdb
